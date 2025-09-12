@@ -10,11 +10,17 @@ The chatbot guides the conversation to:
 2.  **Generate Technical Questions**: Based on the candidate’s specified tech stack, it generates relevant technical questions using the Gemini language model to assess their proficiency.
 3.  **Ensure Coherent Interactions**: It maintains the flow of the conversation to provide a seamless user experience.
 
+   
+
+
+https://github.com/user-attachments/assets/5bfcbf7a-7cfa-4a98-819c-81b6bb30b61f
+
+
 ## Technical Details
 
 *   **Programming Language**: Python
 *   **Frontend Interface**: Streamlit
-*   **Large Language Model**: Google Gemini (`gemini-pro`)
+*   **Large Language Model**: Google Gemini (`gemini-2.5-pro`)
 *   **Package Manager**: `uv`
 
 ## Installation
