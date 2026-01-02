@@ -27,13 +27,15 @@ https://github.com/user-attachments/assets/5bfcbf7a-7cfa-4a98-819c-81b6bb30b61f
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/priyank766/TalentScout
+    cd TalentScout
     ```
 
 2.  **Create a virtual environment using `uv`:**
     ```bash
+    pip install uv
     uv venv
+    uv sync
     ```
 
 3.  **Activate the environment:**
